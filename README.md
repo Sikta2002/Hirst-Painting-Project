@@ -11,7 +11,7 @@
 
 - Familiar with the <a href="https://docs.python.org/3/library/turtle.html#turtle.dot"> Turtle module</a> (Don't know? Internet is the savior. Trust me it's easy 😉).<br>
 
-- Installation of the <a href="https://pypi.org/project/colorgram.py/">Colorgram Package</a>  (We need to make our painting as colorful as Damien Hirst's 🌈.<br>
+- Installation of the <a href="https://pypi.org/project/colorgram.py/">Colorgram Package</a>  (We need to make our painting as colorful as Damien Hirst's 🌈).<br>
 
 - Basic comprehension of the <a href="https://en.wikipedia.org/wiki/RGB_color_model">RGB color system</a> 🧮.
 
