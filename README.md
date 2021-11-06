@@ -9,14 +9,19 @@
 
 <h2>Prerequisites 🖍️</h2>
 - Familiar with the <a href="https://docs.python.org/3/library/turtle.html#turtle.dot"> Turtle module</a> (Don't know? Internet is the savior. Trust me it's easy 😉).<br>
+
 - Installation of the <a href="https://pypi.org/project/colorgram.py/">Colorgram Package</a>  (We need to make our painting as colorful as Damien Hirst's 🌈.<br>
+
 - Basic comprehension of the <a href="https://en.wikipedia.org/wiki/RGB_color_model">RGB color system</a> 🧮.
 
 <h2>Let's Paint ! <img src="https://media3.giphy.com/media/DcJxYde3RQM82PycHJ/giphy.gif?cid=ecf05e47gcgpr29b1rbuk6d7i4ce13m89zhmos352sr16e8b&rid=giphy.gif&ct=s" width = "55"></h2>
 <h3>Task - 1 🖌️:</h3>
 - We start by downloading a spot painting image, which we use to extract the colors using the colorgram package.<br>
+
 - We run a for loop that taps into each of the colors, and extracts the red(r), green(g) and blue(b) colors.<br>
+
 - Further we initiate a tuple that holds (r, g, b) and append the tuples into an empty list.<br>
+
 - Lastly, we copy & paste the entire output list into our <b>main.py</b> and comment out the prior code (we don't need to run the computation every single time when our goal is to just extract the colors).
 
 <h4>Beware of the Whites ! ⚪</h4>
@@ -24,6 +29,7 @@
 
 <h3>Task - 2 🖌️:</h3>
 -  We intend on drawing a spot painting 10 X 10 in size, with each dot of size 20 and spaced apart by 50 paces.<br>
+
 -  We use the dot() to draw the dots and colormode(255) to access and generate random RGB colors.<br>
 <br>
 <div align="center">
@@ -47,6 +53,7 @@
 
 <h2>Things we learnt 🕮️</h2>
 - How amazing the turtle module is! 🐢<br>
+
 - How expensive contemporary art can be! 😝
 
 <h3>🦄 Thanks for Visiting! 🦄</h3>
