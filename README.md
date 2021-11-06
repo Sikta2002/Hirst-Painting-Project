@@ -29,12 +29,10 @@
 <div align="center">
 <img src="https://github.com/Sikta2002/Hirst-Painting-Project/blob/main/Image_0.png">
 </div>
-
 - Inorder to prevent the turtle to start from the center and move out of the frame, we play around with setheading() & forward() to move the turtle to the intended position.<br>
 <div align="center">
 <img src="https://github.com/Sikta2002/Hirst-Painting-Project/blob/main/Image_2.png">
 </div>
-
 - We then add more codes to the for loop to make the turtle move to the next row and start from the front & keep moving further drawing dots.<br>
 <div align="center">
 <img src="https://github.com/Sikta2002/Hirst-Painting-Project/blob/main/Image_3.png">
