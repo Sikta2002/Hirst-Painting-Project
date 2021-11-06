@@ -5,7 +5,7 @@
 </div>
 
 <h2>What are we upto ?🤔</h2>
-<p>We are going to create this colourful piece of art which sold for <a href="https://www.phillips.com/detail/damien-hirst/UK010113/20">half a million pounds !</a>  (25 random colored dots<img src="https://media4.giphy.com/media/ZcW1wMaPZVK4pnRo0G/giphy.gif?cid=ecf05e47fcsy1srh0l2a1xpnkkh1waemcd20j4c1o385bq9z&rid=giphy.gif&ct=s" width = "50">) just by using the well-known turtle module present in the python library.</p>
+<p>We are going to create this colourful piece of art which sold for more than <a href="https://www.phillips.com/detail/damien-hirst/UK010113/20">half a million pounds !</a>  (25 random colored dots<img src="https://media4.giphy.com/media/ZcW1wMaPZVK4pnRo0G/giphy.gif?cid=ecf05e47fcsy1srh0l2a1xpnkkh1waemcd20j4c1o385bq9z&rid=giphy.gif&ct=s" width = "50">) just by using the well-known turtle module present in the python library.</p>
 
 <h2>Prerequisites 🖍️</h2>
 
