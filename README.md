@@ -29,15 +29,18 @@
 <div align="center">
 <img src="https://github.com/Sikta2002/Hirst-Painting-Project/blob/main/Image_0.png">
 </div>
+
 - Inorder to prevent the turtle to start from the center and move out of the frame, we play around with setheading() & forward() to move the turtle to the intended position.<br>
 <div align="center">
 <img src="https://github.com/Sikta2002/Hirst-Painting-Project/blob/main/Image_2.png">
 </div>
+
 - We then add more codes to the for loop to make the turtle move to the next row and start from the front & keep moving further drawing dots.<br>
 <div align="center">
 <img src="https://github.com/Sikta2002/Hirst-Painting-Project/blob/main/Image_3.png">
 </div>
 <br>
+
 - Lastly, we can increase the speed of our turtle by using speed(), make the forward lines vanish by using penup() (this doesn't affect our dots!) and make the turtle invisible by using hideturtle().<br>
 
 <h4 align="center">Hooray, our painting is ready !<img src="https://media2.giphy.com/media/TFNbcscr9JUUigDzrZ/giphy.gif?cid=ecf05e4706b8ssybfzwnhu3hwlqnljx0thbi23qezkue1y2i&rid=giphy.gif&ct=s" width = "50"></h4>
