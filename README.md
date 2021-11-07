@@ -1,7 +1,7 @@
 <h1>The Hirst Painting Project <img src="https://media4.giphy.com/media/ck5A02sAgNOT066qiK/giphy.gif?cid=ecf05e47puddn7yqrc8nn3xogmb1cko8gjskkcrmatrwzoye&rid=giphy.gif&ct=s" width = "50"></h1>
 <p>This is a recreation of <a href="https://en.wikipedia.org/wiki/Damien_Hirst">Damien Hirst's</a> <b>Spot Painting</b> using Python with the help of the Turtle module.</p>
 <div align="center">
-<img src="https://assets.phillips.com/image/upload/t_Website_LotDetailMainImage/v1/auctions/UK010113/20_001.jpg">
+<img src="https://assets.phillips.com/image/upload/t_Website_LotDetailMainImage/v1/auctions/UK010113/20_001.jpg" width="400" height="350">
 </div>
 
 <h2>What are we upto ?🤔</h2>
@@ -36,17 +36,17 @@
 -  We use the dot() to draw the dots and colormode(255) to access and generate random RGB colors.<br>
 <br>
 <div align="center">
-<img src="https://github.com/Sikta2002/Hirst-Painting-Project/blob/main/Image_0.png">
+<img src="https://github.com/Sikta2002/Hirst-Painting-Project/blob/main/Image_0.png" width="400" height="350">
 </div>
 
 - Inorder to prevent the turtle to start from the center and move out of the frame, we play around with setheading() & forward() to move the turtle to the intended position.<br>
 <div align="center">
-<img src="https://github.com/Sikta2002/Hirst-Painting-Project/blob/main/Image_2.png">
+<img src="https://github.com/Sikta2002/Hirst-Painting-Project/blob/main/Image_2.png" width="400" height="350">
 </div>
 
 - We then add more codes to the for loop to make the turtle move to the next row and start from the front & keep moving further drawing dots.<br>
 <div align="center">
-<img src="https://github.com/Sikta2002/Hirst-Painting-Project/blob/main/Image_3.png">
+<img src="https://github.com/Sikta2002/Hirst-Painting-Project/blob/main/Image_3.png" width="400" height="350">
 </div>
 <br>
 
